@@ -1,3 +1,5 @@
 print(f'Hello!')
-print('''multy
-string''')
+print(f'''multy
+string
+{5**5}
+''')
